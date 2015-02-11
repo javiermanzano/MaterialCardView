@@ -10,7 +10,7 @@ Demo
 Installation
 ------------
 
-### Manuel
+### Manual
 
 Copy & paste `MaterialCardView.swift` and `CEMKit.swift` to your project
 
